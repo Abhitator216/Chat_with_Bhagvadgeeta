@@ -31,9 +31,6 @@ To replicate our analysis or use the resources in this repository, follow these 
 
 We welcome contributions to this project! If you find ways to enhance the analysis, optimize the code, or have ideas for extending the use of Bhagavad Gita text embeddings, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
